@@ -194,6 +194,12 @@
     <Content Include="Scripts\angular-resource.js" />
     <Content Include="Scripts\angular-route.js" />
     <Content Include="Scripts\angular.js" />
+    <Content Include="Scripts\Angular1.3.5\angular-animate.js" />
+    <Content Include="Scripts\Angular1.3.5\angular-resource.js" />
+    <Content Include="Scripts\Angular1.3.5\angular-route.js" />
+    <Content Include="Scripts\Angular1.3.5\angular-sanitize.js" />
+    <Content Include="Scripts\Angular1.3.5\angular-ui-bootstrap.js" />
+    <Content Include="Scripts\Angular1.3.5\angular.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />

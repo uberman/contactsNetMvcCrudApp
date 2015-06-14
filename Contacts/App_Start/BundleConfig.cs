@@ -17,10 +17,10 @@ namespace Contacts
             bundles.Add(new ScriptBundle("~/bundles/boostrap").Include(
             "~/Scripts/bootstrap.js"));
             bundles.Add(new ScriptBundle("~/bundles/angularApp").Include(
-                        "~/Scripts/angular.js",
-                        "~/Scripts/angular-route.js",
-                        "~/Scripts/angular-resource.js",
-                        "~/Scripts/ui-bootstrap-tpls-0.13.0.js",
+                        "~/Scripts/Angular1.3.5/angular.js",
+                        "~/Scripts/Angular1.3.5/angular-route.js",
+                        "~/Scripts/Angular1.3.5/angular-resource.js",
+                        "~/Scripts/Angular1.3.5/angular-ui-bootstrap.js",
 
                         "~/App/contactApp.js",
                         "~/App/clientRoute.js",
